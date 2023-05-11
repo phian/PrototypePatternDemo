@@ -1,3 +1,3 @@
 # PrototypePatternDemo
 
-A simple project to demo the _**prototype design pattern**_.
+A simple project using _**C#**_ to demo the _**prototype design pattern**_.
